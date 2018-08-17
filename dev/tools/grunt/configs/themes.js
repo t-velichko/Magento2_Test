@@ -31,6 +31,16 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    m2theme: {
+        area: 'frontend',
+        name: 'Velichko/m2theme',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+    },
     luma: {
         area: 'frontend',
         name: 'Magento/luma',
